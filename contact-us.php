@@ -784,7 +784,7 @@ echo "<script>
                         <div class="col-xl-12">
                             <div class="footer-one__bottom-inner">
                                 <div class="footer-one__bottom-text">
-                                    <p>Copyright &copy;2022. All rights reserved</p>
+                                    <p>Copyright &copy;2024. All rights reserved</p>
                                 </div>
 
                                 <div class="footer-one__bottom-list">
